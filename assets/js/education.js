@@ -6,12 +6,12 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Web Development",
-    cardImage: "assets/images/education-page/byui.png",
+    cardImage: "assets/images/education-page/byui.jpg",
     moocLink: "https://drive.google.com/file/d/1WwQvnqA7hkEoHOmCIfGvhzz24rGikN9q/view?usp=sharing",
   },
   {
     title: "Web and Computer Programming",
-    cardImage: "assets/images/education-page/byui.png",
+    cardImage: "assets/images/education-page/byui.jpg",
     moocLink: "https://drive.google.com/file/d/1btd9buaMwqSV73PLZwL5zyWM8yJNdfaL/view?usp=sharing",
   },
   {
